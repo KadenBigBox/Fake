@@ -3,6 +3,6 @@ Super fake (for testing)
 
 1 -> The first of all numbers (fact)
 2
-3
+3 -> nice
 4 -> A lucky number
 5
